@@ -1,2 +1,2 @@
 # StefanRepository
-Stefan Repaja
+Stefan Repaja personal repository

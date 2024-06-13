@@ -1,2 +1,7 @@
 # StefanRepository
-Stefan Repaja personal repository
+#include<iostream>
+
+int main(){
+std::cout<<"helo";
+}
+
